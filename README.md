@@ -26,8 +26,9 @@ python -m pip install dash
 python dashboard.py
 
 ### Step 3: Start IoT Devices 
-To simulate multiple IoT devices, open a **separate Command Prompt window for each device** and run:
+To simulate multiple IoT devices, open a **separate Command Prompt window for each device** and run
 
 ```bash
 python node_beacon.py
+
 
