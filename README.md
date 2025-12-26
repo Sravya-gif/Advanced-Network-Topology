@@ -19,16 +19,13 @@ This project demonstrates dynamic IoT network topology visualization using Pytho
 ## How to Run
 
 ### Step 1: Install dependencies
-'```bash
 python -m pip install dash
 
 ### Step 2: Start discovery service
 python dashboard.py
 
 ### Step 3: Start IoT Devices 
-To simulate multiple IoT devices, open a **separate Command Prompt window for each device** and run
-
-```bash
+To simulate multiple IoT devices, open a separate Command Prompt window for each device and run
 python node_beacon.py
 
 
